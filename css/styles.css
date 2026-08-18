@@ -1,0 +1,16 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 25px;
+  color: darkslategray;
+  margin-left: 20px;
+}
